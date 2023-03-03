@@ -3,7 +3,7 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 
 ## Projects
 
-1. **Case Study - Analyzing Job Market Data**
+## 1. **Case Study - Analyzing Job Market Data**
 
 ![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Company%20Analysis.PNG)
 
@@ -32,3 +32,14 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 
     - Job Level Analysis
     <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Job%20level%20Analysis.PNG" width="500" />
+
+
+
+
+
+
+# Mini Projects 
+
+# Flight Analysis in America 
+
+![]

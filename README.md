@@ -23,11 +23,12 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 
 * **Visualization charts**
     - Home Page
-    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Dashboard%20Home.PNG" width="200" />
+    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Dashboard%20Home.PNG" width="1080" />
 
 
     - Experience Analysis
-    ![Experience Analysis](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Experience%20Analysis.PNG)
+    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Experience%20Analysis.PNG" width="1080" />
+
 
     - Job Level Analysis
-    ![job level Analysis](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Job%20level%20Analysis.PNG)
+    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Job%20level%20Analysis.PNG width="1080" />

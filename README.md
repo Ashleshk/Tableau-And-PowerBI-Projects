@@ -42,4 +42,19 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 
 # Flight Analysis in America 
 
-![]
+[Dashboard](https://public.tableau.com/app/profile/ashlesh2213/viz/FlightDashboard_16778602063420/FlightsinAmerica)
+
+
+![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Mini%20Projects/Flight%20Dashboard/Image.PNG)
+
+* **Description**- In this mini-project, I developed Flight Dashbaord.
+    - I have used Power Query to investigate and clean the data to focus on Average delay and Seasonal delay of each Airline. 
+    - used DAX to build insightful visualizations of your findings. 
+    - Finally, I bring it all together by creating a business dashboard.
+
+* **Insights** - I learnt to import data source and understand power query.
+    -  used maps to determine whether, Airline has consistent delay in particular region of America.
+    - how Average delay varies in a year.
+
+* **Outcomes**
+    - Cities like Chicago, Dallas, Denver Atlanta has more Delay in flight than populated cities like New york.

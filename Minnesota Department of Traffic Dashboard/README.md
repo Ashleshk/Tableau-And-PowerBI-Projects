@@ -1,60 +1,20 @@
-# Tableau-And-Power-Projects
-Consist brief info about all my tableau and PowerBi dashboards, insights that I got out of them &amp; the result and analysis from visualization.
+# Minnesota Department of Transportation dashboard project
+ 
 
-## Projects
+* **Description**- In this project, the goal is to find out if we need to make any infrastructure changes, like adding or changing lanes, entrances, or exits. We want to have a dashboard that monitors the incoming traffic data. If we can find trends in the data, we can figure out what changes we should make. The dashboard should track a couple of key things. The most important chart will monitor the traffic volume throughout the year. It'd be great if you could organize that by year, month, week, day, and hour. It'll help us figure out where the patterns are. Another chart we'd like to have is one that compares the traffic volume to weather conditions. We want to better understand the weather's effect on traffic behavior. And finally, we want to know which holidays have the highest traffic volume. That might help us plan some infrastructure updates so we don't have any lanes blocked off when they're needed the most.
 
-## 1. **Case Study - Analyzing Job Market Data**
 
-![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Company%20Analysis.PNG)
+* **Requirement**-  
+They have been specific about the three charts they’re most interested in including for this dashboard:
+1. Traffic volume throughout the year; ideally organized by year, month, week, day, and hour
+2. Traffic volume in different weather conditions
+3. Traffic volume on different holidays
 
-* **Description**- In this project, I explored a real-world job posting dataset to uncover insights for a fictional recruitment company called DataSearch.
-    - I have used Power Query to investigate and clean the data to find out what skills are most in-demand for data scientists, data analysts, and data engineers. 
-    - used DAX to build insightful visualizations of your findings. 
-    - Finally, I bring it all together using everything Power BI has to offer to create a business dashboard so that you can answer questions for the DataSearch team.
 
-* **Insights** - I learnt to analyse about company, jobs they provide and skills set they look for.
-    - In Company Analysis, I was able to recognize the variation in the average pay, based job postings and company size and sector it belongs to.
-    -  How is Average year experience and posting count has changed in terms of company size and company level for different jobs
-    - built a heatmap of Skill required by employer based on job.
 
 * **Outcomes**
-    - It helped me to understand me and my friends to understand which skills are essential for Data Scientist, Data Analyst role.
+    - 
 
 
 * **Visualization charts**
-    - Home Page
-    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Dashboard%20Home.PNG" width="500" />
-
-
-    - Experience Analysis
-    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Experience%20Analysis.PNG" width="500" />
-
-
-    - Job Level Analysis
-    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Job%20level%20Analysis.PNG" width="500" />
-
-
-
-
-
-
-# Mini Projects 
-
-# Flight Analysis in America 
-
-[Dashboard](https://public.tableau.com/app/profile/ashlesh2213/viz/FlightDashboard_16778602063420/FlightsinAmerica)
-
-
-![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Mini%20Projects/Flight%20Dashboard/Image.PNG)
-
-* **Description**- In this mini-project, I developed Flight Dashbaord.
-    - I have used Power Query to investigate and clean the data to focus on Average delay and Seasonal delay of each Airline. 
-    - used DAX to build insightful visualizations of your findings. 
-    - Finally, I bring it all together by creating a business dashboard.
-
-* **Insights** - I learnt to import data source and understand power query.
-    -  used maps to determine whether, Airline has consistent delay in particular region of America.
-    - how Average delay varies in a year.
-
-* **Outcomes**
-    - Cities like Chicago, Dallas, Denver Atlanta has more Delay in flight than populated cities like New york.
+  

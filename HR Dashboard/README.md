@@ -2,14 +2,8 @@
 Consist brief info about all my tableau and PowerBi dashboards, insights that I got out of them &amp; the result and analysis from visualization.
 
 ## Projects
-## 1. Atlas Labs: Human Resources analytics
-[Tableau Dashboard Link](https://public.tableau.com/app/profile/ashlesh2213/viz/AtlasLabsHumanResourcesanalytics/HRDash2)
 
-![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Company%20Analysis.PNG)
-
---
-
-## 2. Case Study - Analyzing Job Market Data
+## 1. **Case Study - Analyzing Job Market Data**
 
 ![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Company%20Analysis.PNG)
 
@@ -26,11 +20,29 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 * **Outcomes**
     - It helped me to understand me and my friends to understand which skills are essential for Data Scientist, Data Analyst role.
 
---
 
-# 2. Flight Analysis in America 
+* **Visualization charts**
+    - Home Page
+    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Dashboard%20Home.PNG" width="500" />
 
-[Tableau Dashboard Link](https://public.tableau.com/app/profile/ashlesh2213/viz/FlightDashboard_16778602063420/FlightsinAmerica)
+
+    - Experience Analysis
+    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Experience%20Analysis.PNG" width="500" />
+
+
+    - Job Level Analysis
+    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Job%20level%20Analysis.PNG" width="500" />
+
+
+
+
+
+
+# Mini Projects 
+
+# Flight Analysis in America 
+
+[Dashboard](https://public.tableau.com/app/profile/ashlesh2213/viz/FlightDashboard_16778602063420/FlightsinAmerica)
 
 
 ![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Mini%20Projects/Flight%20Dashboard/Image.PNG)

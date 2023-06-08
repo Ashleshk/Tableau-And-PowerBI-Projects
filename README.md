@@ -34,12 +34,15 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 
 ![Dashboard](https://github.com/Ashleshk/Tableau-And-PowerBI-Projects/blob/main/Minnesota%20Department%20of%20Traffic%20Dashboard/Dashboard.png)
 
+
+---
+
 # 4. Flight Analysis in America 
 
 [Tableau Dashboard Link](https://public.tableau.com/app/profile/ashlesh2213/viz/FlightDashboard_16778602063420/FlightsinAmerica)
 
 
-![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Mini%20Projects/Flight%20Dashboard/Image.PNG)
+![Dashboard](https://github.com/Ashleshk/Tableau-And-PowerBI-Projects/blob/main/Flight%20Dashboard/Image.PNG)
 
 * **Description**- In this mini-project, I developed Flight Dashbaord.
     - I have used Power Query to investigate and clean the data to focus on Average delay and Seasonal delay of each Airline. 
@@ -55,4 +58,3 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 
 ---
 
-# 4. 

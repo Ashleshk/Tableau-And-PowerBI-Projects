@@ -7,7 +7,7 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 
 ![Dashboard](https://github.com/Ashleshk/Tableau-And-PowerBI-Projects/blob/main/HR%20Dashboard/Tableau%20View.png)
 
---
+---
 
 ## 2. Case Study - Analyzing Job Market Data
 
@@ -26,9 +26,15 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 * **Outcomes**
     - It helped me to understand me and my friends to understand which skills are essential for Data Scientist, Data Analyst role.
 
---
+---
+# 3. Minnesota Department of Transportation
 
-# 2. Flight Analysis in America 
+[Tableau Dashboard Link](https://public.tableau.com/app/profile/ashlesh2213/viz/MinnesotaDepartmentofTransportationDashboard/Dashboard1)
+
+
+![Dashboard](https://github.com/Ashleshk/Tableau-And-PowerBI-Projects/blob/main/Minnesota%20Department%20of%20Traffic%20Dashboard/Dashboard.png)
+
+# 4. Flight Analysis in America 
 
 [Tableau Dashboard Link](https://public.tableau.com/app/profile/ashlesh2213/viz/FlightDashboard_16778602063420/FlightsinAmerica)
 
@@ -46,3 +52,7 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 
 * **Outcomes**
     - Cities like Chicago, Dallas, Denver Atlanta has more Delay in flight than populated cities like New york.
+
+---
+
+# 4. 

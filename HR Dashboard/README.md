@@ -1,60 +1,20 @@
-# Tableau-And-Power-Projects
-Consist brief info about all my tableau and PowerBi dashboards, insights that I got out of them &amp; the result and analysis from visualization.
+# Atlas Labs: Human Resources analytics
 
-## Projects
+[Tableau Dashboard Link](https://public.tableau.com/app/profile/ashlesh2213/viz/AtlasLabsHumanResourcesanalytics/HRDash2)
 
-## 1. **Case Study - Analyzing Job Market Data**
-
-![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Company%20Analysis.PNG)
-
-* **Description**- In this project, I explored a real-world job posting dataset to uncover insights for a fictional recruitment company called DataSearch.
-    - I have used Power Query to investigate and clean the data to find out what skills are most in-demand for data scientists, data analysts, and data engineers. 
-    - used DAX to build insightful visualizations of your findings. 
-    - Finally, I bring it all together using everything Power BI has to offer to create a business dashboard so that you can answer questions for the DataSearch team.
-
-* **Insights** - I learnt to analyse about company, jobs they provide and skills set they look for.
-    - In Company Analysis, I was able to recognize the variation in the average pay, based job postings and company size and sector it belongs to.
-    -  How is Average year experience and posting count has changed in terms of company size and company level for different jobs
-    - built a heatmap of Skill required by employer based on job.
-
-* **Outcomes**
-    - It helped me to understand me and my friends to understand which skills are essential for Data Scientist, Data Analyst role.
+![Dashboard](https://github.com/Ashleshk/Tableau-And-PowerBI-Projects/blob/main/HR%20Dashboard/Tableau%20View.png)
 
 
-* **Visualization charts**
-    - Home Page
-    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Dashboard%20Home.PNG" width="500" />
+Through my analysis I obsereved that in recent year the number or people leaving the company had been on the rise. But the company has also been hiring lost of new people and overall Atlas Labs is a growing company. But let us look more into why people leave.
 
+Two of the key factors to increased attrition where 'Travel Frequency' and 'Overtime'. This trend is constant across all departments. And the HR team should look more into this, and figure out how they might hire some new people to lessen the burden on e.g. those that work overtime.
 
-    - Experience Analysis
-    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Experience%20Analysis.PNG" width="500" />
+In terms of demographics, Atlas Labs workforce is predominantly young, with the most significant attrition rates observed among the age groups 18-22, 23-27, and 28-32. Gender, however, does not appear to significantly affect attrition rates. Looking into how they can retain young talent and what this age group is intrested in might be an important step to take.
 
+When looking at other factors such as compensation and benefits, I founf that employees with no stock options have a notably higher attrition rate. Interestingly, employees with level 3 stock options also show a higher attrition rate than those with level 1 or 2 options. Atlas Labs can look into giving more employees stock option as thees seems to help retain them.
 
-    - Job Level Analysis
-    <img src="https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Job%20level%20Analysis.PNG" width="500" />
+From a geographical perspective, most of Atlas Labs employees are based in CA, which also has the highest attrition rate among the three states represented in the workforce (CA, IL, NY).
 
+Interestingly, I found very weak to almost zero corraltion between staisfaction and people that left the company. The HR team might want to look into how these surveys are being conducted to better understand this aspect.
 
-
-
-
-
-# Mini Projects 
-
-# Flight Analysis in America 
-
-[Dashboard](https://public.tableau.com/app/profile/ashlesh2213/viz/FlightDashboard_16778602063420/FlightsinAmerica)
-
-
-![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Mini%20Projects/Flight%20Dashboard/Image.PNG)
-
-* **Description**- In this mini-project, I developed Flight Dashbaord.
-    - I have used Power Query to investigate and clean the data to focus on Average delay and Seasonal delay of each Airline. 
-    - used DAX to build insightful visualizations of your findings. 
-    - Finally, I bring it all together by creating a business dashboard.
-
-* **Insights** - I learnt to import data source and understand power query.
-    -  used maps to determine whether, Airline has consistent delay in particular region of America.
-    - how Average delay varies in a year.
-
-* **Outcomes**
-    - Cities like Chicago, Dallas, Denver Atlanta has more Delay in flight than populated cities like New york.
+We can also see that it is important to get past the first year of employmeent, as there is a large drop in attrition rate from year 1 till 2. The Atlas Labs HR team should revisit tehir strategies for new hire, onboarding and support.

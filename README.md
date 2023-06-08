@@ -5,7 +5,7 @@ Consist brief info about all my tableau and PowerBi dashboards, insights that I 
 ## 1. Atlas Labs: Human Resources analytics
 [Tableau Dashboard Link](https://public.tableau.com/app/profile/ashlesh2213/viz/AtlasLabsHumanResourcesanalytics/HRDash2)
 
-![Dashboard](https://github.com/Ashleshk/Tableau-And-Power-Projects/blob/main/Case-Study-%20Analyzing%20Job%20Market%20Data/resource/Company%20Analysis.PNG)
+![Dashboard](https://github.com/Ashleshk/Tableau-And-PowerBI-Projects/blob/main/HR%20Dashboard/Tableau%20View.png)
 
 --
 
